@@ -1,0 +1,77 @@
+.
+├── data/
+│   ├── krm-v3.0.xlsx
+│   └── README.md
+├── docs/
+│   ├── grading.md
+│   ├── quality-checklist.md
+│   ├── README.md
+│   └── rpd.md
+├── M1-introduction/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   ├── kim-1.5-feasibility.md
+│   └── README.md
+├── M2-requirements/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   ├── kim-2.5-srs.md
+│   └── README.md
+├── M3-architecture/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   ├── kim-3.4-architecture.md
+│   └── README.md
+├── M4-quality-assurance/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   ├── kim-4.1-vv.md
+│   └── README.md
+├── Project/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   └── README.md
+├── Exam/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   └── README.md
+├── methodical-guidelines/
+│   ├── students/
+│   │   └── README.md
+│   ├── teachers-assessment/
+│   │   └── README.md
+│   ├── teachers-resources/
+│   │   └── README.md
+│   └── README.md
+├── resources/
+│   ├── benchmarks/
+│   │   └── README.md
+│   ├── datasets/
+│   │   └── README.md
+│   ├── llm-prompts/
+│   │   └── README.md
+│   ├── other/
+│   │   └── README.md
+│   ├── papers/
+│   │   └── README.md
+│   ├── problem-banks/
+│   │   └── README.md
+│   ├── software/
+│   │   └── python-libs/
+│   │       └── README.md
+│   ├── test-banks/
+│   │   └── README.md
+│   ├── textbooks/
+│   │   └── README.md
+│   └── README.md
+├── team/
+│   ├── images/
+│   │   └── .gitkeep
+│   └── README.md
+├── other/
+│   └── README.md
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── README.md
+└── repository-tree.txt
